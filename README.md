@@ -11,7 +11,7 @@ This project is designed to show practical Data Engineering skills, including pi
 | Version | Pipeline Type            | Main Tools                    | Status      |
 | ------- | ------------------------ | ----------------------------- | ----------- |
 | V1      | Local Analytics Pipeline | Python, DuckDB, SQL, Power BI | Completed   |
-| V2      | Cloud ELT Pipeline       | Airflow, GCS, BigQuery, SQL   | In Progress |
+| Step 2  | Update README for V1 / V2 project positioning            | Completed   |
 
 ---
 
