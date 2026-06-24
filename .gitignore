@@ -84,3 +84,18 @@ secrets/
 .DS_Store
 Thumbs.db
 desktop.ini
+# Logs
+logs/
+*.log
+
+# Environment variables / credentials
+.env
+*.json
+service-account*.json
+gcp-key*.json
+
+# Airflow local files
+airflow/logs/
+airflow/plugins/
+airflow/airflow.db
+airflow/webserver_config.py
