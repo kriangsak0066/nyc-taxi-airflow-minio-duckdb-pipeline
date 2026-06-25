@@ -155,8 +155,8 @@ This project is part of my Data Engineering learning path. The main objective is
 | Step 1   | Add GCP / Airflow / BigQuery folder structure            | Completed   |
 | Step 1.5 | Update `.gitignore` for local, database, and cloud files | Completed   |
 | Step 2   | Update README for V1 / V2 project positioning            | In Progress |
-| Step 3   | Add Airflow local setup                                  | Not Started |
-| Step 4   | Create first Airflow DAG                                 | Not Started |
+| Step 3   | Add Airflow local setup                                  | Completed   |
+| Step 4   | Create first Airflow DAG                                 | Completed   |
 | Step 5   | Add GCS upload script                                    | Not Started |
 | Step 6   | Load data from GCS to BigQuery                           | Not Started |
 | Step 7   | Build BigQuery staging and mart tables                   | Not Started |
