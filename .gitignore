@@ -85,6 +85,7 @@ secrets/
 config/*
 !config/.gitkeep
 !config/airflow.env.example
+!config/minio.env.example
 
 # =========================
 # Airflow local files

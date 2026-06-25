@@ -157,10 +157,12 @@ This project is part of my Data Engineering learning path. The main objective is
 | Step 2   | Update README for V1 / V2 project positioning            | In Progress |
 | Step 3   | Add Airflow local setup                                  | Completed   |
 | Step 4   | Create first Airflow DAG                                 | Completed   |
-| Step 5   | Add GCS upload script                                    | Not Started |
-| Step 6   | Load data from GCS to BigQuery                           | Not Started |
-| Step 7   | Build BigQuery staging and mart tables                   | Not Started |
-| Step 8   | Add data quality checks                                  | Not Started |
+| Step 5   | Add GCS upload script                                    | Completed   |
+| Step 6   | Prepare Google Cloud CLI and GCS configuration           | In Progress |
+| Step 7   | Add GCS upload script                                    | Not Started |
+| Step 8   | Load data from GCS to BigQuery                           | Not Started |
+| Step 9   | Build BigQuery staging and mart tables                   | Not Started |
+| Step 10  | Add data quality checks                                  | Not Started |
 
 ---
 
